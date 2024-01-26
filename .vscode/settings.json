@@ -1,0 +1,4 @@
+{
+  "i18n-ally.localesPaths": ["src/locales", "src/locales/lang", "public/resource/tinymce/langs"],
+  "vetur.validation.script": false
+}
